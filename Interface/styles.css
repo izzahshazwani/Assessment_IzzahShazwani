@@ -1,0 +1,52 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    background-color: #007BFF;
+    color: #fff;
+    padding: 10px;
+}
+
+.user-form {
+    width: 50%;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.form-group {
+    margin-bottom: 10px;
+}
+
+label {
+    display: block;
+}
+
+input {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.message {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #007BFF;
+    border-radius: 5px;
+    color: #007BFF;
+    display: none;
+}
