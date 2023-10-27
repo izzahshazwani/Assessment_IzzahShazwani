@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Assessment_IzzahShazwani.Controllers
 {
-    [Route("api/Users")]
+    [Route("api/UsersController")]
     [ApiController]
     public class UsersController : ControllerBase
     {
